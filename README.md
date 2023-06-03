@@ -9,7 +9,7 @@ Pangran is a simple TUI program that checks if you've typed a [pangram](https://
 Type `pangram -h` to show help, and `pangram -v` to show the version.
 Just type `pangram` in your terminal and you'll be launched into the TUI. Pressing the Escape key quits the TUI.
 
-![Example]("https://raw.githubusercontent.com/BimoT/pangran/main/assets/example.gif")
+![Example](https://raw.githubusercontent.com/BimoT/pangran/main/assets/example.gif)
 
 ## Installing
 
